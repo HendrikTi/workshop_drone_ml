@@ -1,2 +1,4 @@
 *.gz
 /virt_env
+/scripts/extractor_features.py
+/scripts/extractor.py
